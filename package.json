@@ -9,14 +9,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://gitlab.alibaba-inc.com:aizhen.laz/gitbook-plugin-code-demo",
+  "homepage": "https://github.com/treasureling/gitbook-plugin-code-demo",
   "repository": {
     "type": "git",
-    "url": "http://gitlab.alibaba-inc.com:aizhen.laz/gitbook-plugin-code-demo.git"
+    "url": "https://github.com/treasureling/gitbook-plugin-code-demo.git"
   },
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://gitlab.alibaba-inc.com:aizhen.laz/gitbook-plugin-code-demo/issues"
+    "url": "https://github.com/treasureling/gitbook-plugin-code-demo/issues"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -27,7 +27,7 @@
     "code",
     "demo"
   ],
-  "author": "aizhen.laz",
+  "author": "treasureling",
   "publishConfig": {
     "registry": "http://registry.npm.alibaba-inc.com"
   }
