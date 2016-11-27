@@ -1,0 +1,34 @@
+{
+  "name": "gitbook-plugin-code-demo",
+  "description": "code-demo plugin for GitBook",
+  "main": "index.js",
+  "version": "0.1.0",
+  "engines": {
+    "gitbook": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://gitlab.alibaba-inc.com:aizhen.laz/gitbook-plugin-code-demo",
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab.alibaba-inc.com:aizhen.laz/gitbook-plugin-code-demo.git"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://gitlab.alibaba-inc.com:aizhen.laz/gitbook-plugin-code-demo/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gitbook",
+    "plugin",
+    "code",
+    "demo"
+  ],
+  "author": "aizhen.laz",
+  "publishConfig": {
+    "registry": "http://registry.npm.alibaba-inc.com"
+  }
+}
